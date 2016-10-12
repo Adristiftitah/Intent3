@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 .setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        openWebPage("httpl:/www.smktelkom-mlg.sch.id/");
+                        openWebPage("http://www.smktelkom-mlg.sch.id/");
                     }
 
                     public void openWebPage(String url) {
